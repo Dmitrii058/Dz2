@@ -5,3 +5,5 @@ elif number < 0:
     print("Число отрицательное")
 else:
     print("Это ноль")
+
+print ("Hello, world!")
